@@ -4,7 +4,7 @@
 🔭 A lifelong learner with a deep interest in Cybersecurity<br/>
 🌱 Formally educated in Anthropology and Archaeology<br/>
 🚀 Currently learning AI<br/>
-🧙🏾‍♀️ Finds joy in a great music, good meme, sudoku puzzles, fantasy books, and anime<br/>
+🧙🏾‍♀️ Finds joy in music, good meme, sudoku puzzles, fantasy books, and anime<br/>
 
 
 # 👾 Technologies

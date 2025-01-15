@@ -1,10 +1,10 @@
 🌚 Heyyy, I'm Darr!  
 
-👩🏽‍💻 A Software Engineer 
-🔭 A lifelong learner with a deep interest in Cybersecurity
-🌱 Formally educated in Anthropology and Archaeology
-🚀 Currently learning AI 
-🧙🏾‍♀️ Finds joy in a great music, good meme, sudoku puzzles, fantasy books, and anime
+👩🏽‍💻 A Software Engineer<br/>
+🔭 A lifelong learner with a deep interest in Cybersecurity<br/>
+🌱 Formally educated in Anthropology and Archaeology<br/>
+🚀 Currently learning AI<br/>
+🧙🏾‍♀️ Finds joy in a great music, good meme, sudoku puzzles, fantasy books, and anime<br/>
 
 
 👾 Technologies

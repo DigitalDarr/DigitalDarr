@@ -4,7 +4,6 @@
 🔭 A lifelong learner with a deep interest in Cybersecurity<br/>
 🌱 Formally educated in Anthropology and Archaeology<br/>
 🚀 Currently learning AI<br/>
-💻 Working on developing a reading app to help chilren with neurodivergent learning needs<br/>
 🧙🏾‍♀️ Finds joy in music, memes, sudoku puzzles, books, and anime<br/>
 
 

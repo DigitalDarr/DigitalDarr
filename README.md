@@ -1,10 +1,10 @@
 # 🌚 Heyyy, I'm Darr!  
 
 👩🏽‍💻 A <i>Software Engineer</i> with a focus on <i>cybersecurity</i><br/>
-🔭 Passionate about accessibility and digital safety<br/>
-🚀 Currently learning <i>python</i><br/>
-🌱 Formally educated in <i>Anthropology</i> and <i>Archaeology</i><br/>
-🧙🏾‍♀️ Finds joy in music, memes, sudoku puzzles, books, and anime<br/>
+🧚🏾 Passionate about accessibility and digital safety<br/>
+🐍 Currently learning <i>python</i><br/>
+🔬 Formally educated in <i>Anthropology</i> and <i>Archaeology</i><br/>
+🍥 Finds joy in music, memes, sudoku puzzles, books, and anime<br/>
 
 
 # 👾 Technologies

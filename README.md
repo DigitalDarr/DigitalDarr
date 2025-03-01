@@ -1,9 +1,9 @@
 # 🌚 Heyyy, I'm Darr!  
 
-👩🏽‍💻 A Software Engineer<br/>
-🔭 A lifelong learner with a deep interest in Cybersecurity<br/>
-🌱 Formally educated in Anthropology and Archaeology<br/>
-🚀 Currently learning AI<br/>
+👩🏽‍💻 A <i>Software Engineer</i> with a focus on <i>cybersecurity</i><br/>
+🔭 Passionate about accessibility and digital safety<br/>
+🚀 Currently learning <i>python</i><br/>
+🌱 Formally educated in <i>Anthropology</i> and <i>Archaeology</i><br/>
 🧙🏾‍♀️ Finds joy in music, memes, sudoku puzzles, books, and anime<br/>
 
 

@@ -1,4 +1,4 @@
-# 🌚 Heyyy, I'm Darr!  
+# 🌚 Heyyy, I'm <i>Darr</i>!  
 
 👩🏽‍💻 A Software Engineer with a focus on <i>cybersecurity</i><br/>
 🧚🏾 Passionate about <i>accessibility</i> and <i>digital safety</i><br/>
